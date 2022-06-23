@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempCal2</string>
+    <string name="edtInput" />
+    <string name="rdCelcius">Celcius</string>
+    <string name="rdFahrenhite">Fahrenhite</string>
+    <string name="btnCal">Claculate</string>
+    <string name="txtAns" />
+</resources>
